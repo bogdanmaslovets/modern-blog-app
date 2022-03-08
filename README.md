@@ -2,7 +2,7 @@
 
 [View Site](https://modern-blog-app-seven.vercel.app/)
 
-![Modern Blog App](modern-blog-app.png)
+![Modern Blog App](https://user-images.githubusercontent.com/93548530/157201248-65c3b49b-80d8-4b6d-82b9-8886e37c73c7.png)
 
 ## Description
 
