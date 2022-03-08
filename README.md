@@ -2,7 +2,7 @@
 
 [View Site](https://modern-blog-app-seven.vercel.app/)
 
-![Modern Blog App](C:\Users\bogda\Documents\github\images\modern-blog-app.png)
+![Modern Blog App](modern-blog-app.png)
 
 ## Description
 
