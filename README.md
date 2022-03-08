@@ -1,6 +1,8 @@
 # Modern Blog App
 
-![Modern Blog App](C:\Users\bogda\Documents\github\images)
+[View Site](https://modern-blog-app-seven.vercel.app/)
+
+![Modern Blog App](C:\Users\bogda\Documents\github\images\modern-blog-app)
 ## Description
 
 This is the modern blog application whith featured and recent posts, categories, full markdown articles, author information, comments, and much more.
