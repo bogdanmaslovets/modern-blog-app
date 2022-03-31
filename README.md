@@ -1,6 +1,6 @@
 # Modern Blog App
 
-[View it](https://modern-blog-app-seven.vercel.app/)
+### [View it](https://modern-blog-app-seven.vercel.app/)
 
 ![Modern Blog App](https://user-images.githubusercontent.com/93548530/157203503-7ea65ca7-6bbd-4bd4-9d1e-3be0f3dad05f.png)
 
